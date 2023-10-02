@@ -1,0 +1,14 @@
+{
+  "VerseID": "1.1",
+  "Chapter": "1",
+  "VerseText": "Dhritarashtra said: O Sanjaya, assembled in the holy land of Kurukshetra and desiring to fight, what did my sons and the sons of Pandu do?",
+  "Functionality": "Query",
+  "RelatedFunctions": ["DecisionMaking", "ConflictResolution"]
+},
+{
+  "VerseID": "2.47",
+  "Chapter": "2",
+  "VerseText": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions.",
+  "Functionality": "Execution",
+  "RelatedFunctions": ["GoalSetting", "Detachment"]
+}
